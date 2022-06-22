@@ -1,0 +1,79 @@
+{
+  "kisiler": [
+    {
+      "tc": "1234567890",
+      "ad": "Murat",
+      "soyad": "Başeren",
+      "yas": 30,
+      "unvan": "yazılımcı",
+      "adres": {
+        "il": {
+          "adi": "İstanbul",
+          "plakaNo": 34
+        },
+        "ilce": "Pendik",
+        "ulke": {
+          "alanKodu": "+90",
+          "adi": "Türkiye"
+        },
+        "postaKodu": "80090",
+        "site": {
+          "adi": "ABC Sitesi",
+          "blok": "A",
+          "kat": 2,
+          "no": 12
+        }
+      }
+    },
+    {
+      "tc": "1234567890",
+      "ad": "Murat",
+      "soyad": "Başeren",
+      "yas": 30,
+      "unvan": "yazılımcı",
+      "adres": {
+        "il": {
+          "adi": "İstanbul",
+          "plakaNo": 34
+        },
+        "ilce": "Pendik",
+        "ulke": {
+          "alanKodu": "+90",
+          "adi": "Türkiye"
+        },
+        "postaKodu": "80090",
+        "site": {
+          "adi": "ABC Sitesi",
+          "blok": "A",
+          "kat": 2,
+          "no": 12
+        }
+      }
+    },
+    {
+      "tc": "1234567890",
+      "ad": "Murat",
+      "soyad": "Başeren",
+      "yas": 30,
+      "unvan": "yazılımcı",
+      "adres": {
+        "il": {
+          "adi": "İstanbul",
+          "plakaNo": 34
+        },
+        "ilce": "Pendik",
+        "ulke": {
+          "alanKodu": "+90",
+          "adi": "Türkiye"
+        },
+        "postaKodu": "80090",
+        "site": {
+          "adi": "ABC Sitesi",
+          "blok": "A",
+          "kat": 2,
+          "no": 12
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<kisiler>
+
+	<kisi tc="1234567890">
+		<ad>Murat</ad>
+		<soyad>Başeren</soyad>
+		<yas>30</yas>
+		<unvan>Yazılım Geliştirici</unvan>
+		<adres>
+			<il>
+				<adi>İstanbul</adi>
+				<plakaKodu>34</plakaKodu>
+			</il>
+			<ilce>Pendik</ilce>
+			<ulke alankodu="+90">Türkiye</ulke>
+			<postaKodu>800090</postaKodu>
+			<site adi="ABC Sitesi">
+				<blok>A</blok>
+				<kat>2</kat>
+				<no>12</no>
+			</site>
+		</adres>
+	</kisi>
+
+	<kisi tc="1234567890">
+		<ad>Murat</ad>
+		<soyad>Başeren</soyad>
+		<yas>30</yas>
+		<unvan>Yazılım Geliştirici</unvan>
+		<adres>
+			<il>
+				<adi>İstanbul</adi>
+				<plakaKodu>34</plakaKodu>
+			</il>
+			<ilce>Pendik</ilce>
+			<ulke alankodu="+90">Türkiye</ulke>
+			<postaKodu>800090</postaKodu>
+			<site adi="ABC Sitesi">
+				<blok>A</blok>
+				<kat>2</kat>
+				<no>12</no>
+			</site>
+		</adres>
+	</kisi>
+
+</kisiler>

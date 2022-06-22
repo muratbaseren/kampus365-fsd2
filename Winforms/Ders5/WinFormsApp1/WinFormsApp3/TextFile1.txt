@@ -1,0 +1,2 @@
+﻿Murat;Başeren;30;Yazılım Geliştirici;100.000;İstanbul;Türkiye
+Kadir Murat;Başeren;33;Kıdemli Yazılım Geliştirici;200.000;Ankara;Türkiye
